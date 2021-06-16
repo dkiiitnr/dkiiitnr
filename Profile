@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dkiiitnr
+- 👀 I’m interested in Embedded Software Development and Architecture design.
+- 🌱 I’m currently learning CAN communication protocl and classic AUTOSAR
+- 💞️ I’m looking to collaborate on Embedded Linux and Yocto project to learn and contribute.
+
